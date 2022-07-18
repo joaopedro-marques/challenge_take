@@ -47,11 +47,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 
 
-## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
 
 
