@@ -5,13 +5,13 @@ Projeto de integração da API Github com os repositórios da Take Blip para des
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-Além disso, o projeto esta integrado com o Heroku com CI no link : https://takenet-challenge.herokuapp.com/api/repositorios . 
+Além disso, o projeto esta integrado com o Heroku com CI no [link](https://takenet-challenge.herokuapp.com/api/repositorios). 
 
-###Atenção
+## ⚠️Atenção
 
 O fluxo foi inserido na pasta fluxo deste projeto por motivo de integração com a plataforma Heroku. Como instrução, a plataforma solicita que para a CI contínuasemantenha a aplicação na pasta root.
 
-Clique aqui para acesso ao json com o fluxo chatbot(https://github.com/joaopedro-marques/challenge_take/tree/main/Fluxo)
+Clique aqui para acesso ao json com o fluxo [chatbot](https://github.com/joaopedro-marques/challenge_take/tree/main/Fluxo).
 
 
 
@@ -34,6 +34,8 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Npm](https://www.npmjs.com/) - Gerente de Dependência
 * [Heroku](https://www.heroku.com/) - Cloud integration plataform
 * [Builder Take Blip](https://portal.blip.ai/) - Usada para desenvolver o chatbot
+* [Arquitetura limpa](![image](https://user-images.githubusercontent.com/64924032/179615609-2b6acf45-3cdd-4fc6-a13c-8a21d34e34eb.png) - Para manter padrão de projeto com Controller e Service separados, facilitando a separabilidade das funções, observabilidade, mantuneabilidade, etc.
+
 
 
 
