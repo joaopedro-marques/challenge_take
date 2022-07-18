@@ -34,7 +34,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Npm](https://www.npmjs.com/) - Gerente de Dependência
 * [Heroku](https://www.heroku.com/) - Cloud integration plataform
 * [Builder Take Blip](https://portal.blip.ai/) - Usada para desenvolver o chatbot
-* [Arquitetura limpa]- Para manter padrão de projeto com Controller e Service separados, facilitando a separabilidade das funções, observabilidade, mantunabilidade.
+* Arquitetura limpa- Para manter padrão de projeto com Controller e Service separados, facilitando a separabilidade das funções, observabilidade, mantunabilidade.
 
 
 
