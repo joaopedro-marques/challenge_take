@@ -7,6 +7,12 @@ Projeto de integração da API Github com os repositórios da Take Blip para des
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 Além disso, o projeto esta integrado com o Heroku com CI no link : https://takenet-challenge.herokuapp.com/api/repositorios . 
 
+###Atenção
+
+O fluxo foi inserido na pasta fluxo deste projeto por motivo de integração com a plataforma Heroku. Como instrução, a plataforma solicita que para a CI contínuasemantenha a aplicação na pasta root.
+
+Clique aqui para acesso ao json com o fluxo chatbot(https://github.com/joaopedro-marques/challenge_take/tree/main/Fluxo)
+
 
 
 ### 📋 Pré-requisitos
