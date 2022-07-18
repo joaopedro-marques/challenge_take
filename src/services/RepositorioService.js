@@ -29,7 +29,7 @@ function formatarRepos(repos){
   return repos.map((obj) => {
     return {
       titulo: obj.name,
-      "sub-titulo": obj.description
+      subtitulo: obj.description
     }
   })
 }
